@@ -1,4 +1,4 @@
-# 💬 MiniChat - Real-Time Chat Application & QA Testing Suite
+# 💬 MiniChat - Real-Time Chat Application
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
